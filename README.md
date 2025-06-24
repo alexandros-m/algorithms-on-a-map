@@ -2,6 +2,8 @@
 
 Educational framework that utilizes `osmnx` and `cartocdn` in order to visualize path-finding (and other) algorithms live on the map.
 
+![Sample Usage](sample.png)
+
 ## Installation
 ### Requirements
 
@@ -9,6 +11,6 @@ Educational framework that utilizes `osmnx` and `cartocdn` in order to visualize
 
 ## Usage
 
-`python backend.py`
+`python backend.py` and then visit the browser link that appears as output.
 
-and then visit the browser link that appears as output.
+![Animation](animation.gif)
